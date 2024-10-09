@@ -1,6 +1,6 @@
 # Local Build Instructions #
 
-Download [https://github.com/glfw/glfw/releases/download/3.4/glfw-3.4.bin.WIN64.zip](Binaries)
+Download [Binaries](https://github.com/glfw/glfw/releases/download/3.4/glfw-3.4.bin.WIN64.zip)
 
 Unzip to a temporary directory
 
