@@ -67,8 +67,7 @@ int main()
 
  
 	//Vertex Buffer
-	unsigned int VBO;
-	unsigned int VAO;
+	unsigned int VBO, VAO;
 	glGenVertexArrays(1, &VAO);
 	glGenBuffers(1, &VBO);
 	glBindVertexArray(VAO);
